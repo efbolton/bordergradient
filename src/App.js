@@ -2,6 +2,8 @@ import React from "react";
 
 //https://v2.tailwindcss.com/docs/guides/create-react-app
 //https://github.com/facebook/create-react-app/issues/11777
+
+//https://tailwindui.com/pricing
 //https://hackernoon.com/create-a-gradient-border-blog-postcard-using-tailwind-css-and-nextjs-a-how-to-guide
 //https://tailwindcss.com/docs/background-image
 
